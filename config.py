@@ -1,0 +1,2 @@
+API_TOKEN = "6931694001:AAG6lPJUUAqNbyxILcp1VFSbIThOnMOOMRw"
+BOT_NICK = 'player3_club_place_bot'
